@@ -1,3 +1,6 @@
+// Copyright (c) 2022 Nicolò Cantori
+// Licensed under the MIT License.
+
 #include <iostream>
 #include <fstream>
 #include <string>
